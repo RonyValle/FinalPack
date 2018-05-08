@@ -15,6 +15,8 @@ particular week.
 
 ## Week2
 
+[Week2](https://github.com/RonyValle/week2)
+
 In week 2 we read chapter 2 which is titled "Basic Commands and Directory Hierarchy". This chapter is one of the most important 
 chapters in my opinion because it gave me the knowledge to navigate around in my Linux system. I learned the most basic 
 commands in this chapter including:
@@ -25,8 +27,6 @@ commands in this chapter including:
 * `cp` to copy a file
 * `mv` To move or rename a file. 
 * *(Take a look at my week2 repository to see all the commands that I learned. The shell script in that repository has all of them)*
-
-https://github.com/RonyValle/week2
 
 ***
 
