@@ -26,5 +26,11 @@ commands in this chapter including:
 * `mv` To move or rename a file. 
 * *(Take a look at my week2 repository to see all the commands that I learned. The shell script in that repository has all of them)*
 
+https://github.com/RonyValle/week2
 
- 
+***
+
+## Week3
+
+
+In week 3 we read chapter 3 titled "Devices"
