@@ -34,7 +34,10 @@ https://github.com/RonyValle/week2
 
 
 In week 3 we read chapter 3 titled "Devices" In this chapter I learned about the /dev/null directory. Evrything that gets sent
-to this directory will be discarted by the kernel. I also learn about the dd utility and about its different uses. I used this utility when I created my bootable USB drive. Find that documantation here: https://github.com/RonyValle/Week5-6/blob/master/Bootable_USB.md
+to this directory will be discarted by the kernel. I also learn about the dd utility and about its different uses. I used this utility when I created my bootable USB drive. Find that documantation here: [https://www.w3schools.com/html/](usb)
+
+
+https://github.com/RonyValle/Week5-6/blob/master/Bootable_USB.md
 
 ***
 
