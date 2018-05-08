@@ -12,6 +12,19 @@ Each week we completed a shell script. The book that we read for this class was 
 particular week.
 
 ***
+
 ## Week2
 
-In week 2 we read chapter 2 which is titled "Basic Commands and Directory 
+In week 2 we read chapter 2 which is titled "Basic Commands and Directory Hierarchy". This chapter is one of the most important 
+chapters in my opinion because it gave me the knowledge to navigate around in my Linux system. I learned the most basic 
+commands in this chapter including:
+* `ls` To list the contents of a directoy.
+* `cd` To change to a different directory in my file system.
+* `echo` To print something to the screen or send its output to a file.
+* `cat` To output the contents of a file.
+* `cp` to copy a file
+* `mv` To move or rename a file. 
+* *(Take a look at my week2 repository to see all the commands that I learned. The shell script in that repository has all of them)*
+
+
+ 
