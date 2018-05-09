@@ -97,12 +97,50 @@ down *SHIFT* then pressing **e**
 One of the assignments for this week was to document how I created my own bootable USB! That documentation can be found here:
 [BootableUSB](https://github.com/RonyValle/Week5-6/blob/master/Bootable_USB.md)
 
-
-
 ***
+
 
 ## Week7
-[Week7 Repository]()
+
+[Week7 Repository](https://github.com/RonyValle/Week7)
+
+During Week7 I read chapter 6 titled "How User Space Starts". 
+In this chapter I learned how User space starts:
+* init
+* Essentials low-level services such as `udevd` and `syslog`
+* Network configuration
+* Mid-and high-level services (cron, printing, and so on)
+* Login prompts, GUIs, and other high-level applications.
+
+One very important concept I learned while reading this chapter was about the `init` program and that it is found in the */sbin* directory. `init` has a process ID of 1. Learning about systemctl was a plus! I used it all the time to suspend my laptop from
+the command line, This is the command I use `systemctl suspend`. I will have to do more research and learning about this utility because it is a must know for controlling services. 
+
+This week also had a 500 word essay on  "Guide To Becoming A Software Engineer" Find that Document here:
+[Guide To Becoming A Software Engineer](https://github.com/RonyValle/Week7/blob/master/essay.md)
+
 ***
 
+## Week8 
 
+[Week8 Repository](https://github.com/RonyValle/week8-review.sh)
+
+This week was a review for the midterm. In class we worked on practice scripts. Find those scripts in the week8 Repository
+mentioned above. 
+
+***
+
+## Week9
+
+[Week9 Repository](https://github.com/RonyValle/Week9)
+
+This week was midterm week. What I did for this week was that I took all my previous scripts from week2 through week7 and 
+made them better by using new shell scripting technches I learned from this website: [Shell Scripting Tutorial](https://www.shellscript.sh/index.html).
+I used if statements, variables and while loops. The scripts found in week9 have this better versions within. 
+
+***
+
+## Wee11
+
+[Week11 Repository](https://github.com/RonyValle/week11)
+
+This Week
