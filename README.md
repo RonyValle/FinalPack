@@ -143,4 +143,4 @@ I used if statements, variables and while loops. The scripts found in week9 have
 
 [Week11 Repository](https://github.com/RonyValle/week11)
 
-This Week
+This Week we had to read 2 Chapters one 
