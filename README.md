@@ -190,6 +190,7 @@ for this week I read chapter 17.
 
 For my groups final project we did a web server, find the documantation here:
 [Documentation](https://github.com/taimaishuze/N-Arctica-Web-Server)
+This are the html files for our website: 
 [HTML files](https://github.com/taimaishuze/sootsplash.html)
 We used the projects feature in Github To organize our selfs: [Organinzation](https://github.com/taimaishuze/N-Arctica-Web-Server/projects/1)
 
