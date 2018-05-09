@@ -35,7 +35,7 @@ commands in this chapter including:
 
 ## Week3
 
-[Week3 Repository](https://github.com/RonyValle/Week3/blob/master/ch3.sh)
+[Week3 Repository](https://github.com/RonyValle/Week3)
 
 In week 3 I read chapter 3 titled "Devices" In this chapter I learned about the /dev/null directory. Evrything that gets sent
 to this directory will be discarted by the kernel. I also learn about the `dd` utility and about it's different uses. I used this utility when I created my bootable USB. Find that documantation here: [BootableUSB](
@@ -76,15 +76,17 @@ a few options for the mount command:</br>
 
 ## Week5&6
 
-***
+[Week5&6 Repository]()
 
+Week 5 and 6 were merge together into one week called Week5&6. Nevertheless for this week I read chapter 5 titled 
+"How The Linux Kernel Boots". 
 
 
 
 ***
 
 ## Week7
-
+[Week7 Repository]()
 ***
 
 
