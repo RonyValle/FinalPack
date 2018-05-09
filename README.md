@@ -139,8 +139,75 @@ I used if statements, variables and while loops. The scripts found in week9 have
 
 ***
 
-## Wee11
+## Week11
 
 [Week11 Repository](https://github.com/RonyValle/week11)
 
-This Week we had to read 2 Chapters one 
+This Week we had to read 2 Chapters one was chapter 9 titled "Understanding Your Network And Its Configuration" the other was 
+chapter 10 "Network Applications And Services". 
+
+***
+
+## Week12 
+
+[Week12 Repository](https://github.com/RonyValle/week12)
+
+For this week I read chapter 11 and Also wrote three essays: 
+* How the internet works
+* TLDPs Rounting Primers
+* tcpdump
+The most useful command I learned for this week was tcpdump. I find this utility to come in very useful. 
+
+*Look at my Week12 Repository for more information*
+
+***
+
+## Week13
+
+[Week13 Repository](https://github.com/RonyValle/week13)
+
+For this week I created a shell script for chapter 12  and 13. 
+This chapters were about moving files across the network and User environment.
+*Look at Week13 Repository to view my scripts for this 2 chapters*
+
+***
+
+## Week14
+
+[Week14 Repository](https://github.com/RonyValle/week14)
+
+For this week I read Chapter 14 and 15 and wrote a 500 word essay for each using markdown format.
+One of the funnest things I did for this week is that there was an assignment for to change my window manager which I did.
+Find that documentation here: [Window Manager Chage](https://github.com/RonyValle/week14/blob/master/ChangingWindowManager.md)
+
+***
+
+## Week15
+
+for this week I read chapter 17.
+
+## Final Project
+
+For my groups final project we did a web server, find the documantation here:
+[Documentation](https://github.com/taimaishuze/N-Arctica-Web-Server)
+[HTML files](https://github.com/taimaishuze/sootsplash.html)
+We used the projects feature in Github To organize our selfs: [Organinzation](https://github.com/taimaishuze/N-Arctica-Web-Server/projects/1)
+
+This is my Groups Contribution: [Contribution](https://github.com/taimaishuze/N-Arctica-Web-Server/wiki/Support-1)
+Most of my time was spent working on the HTML code for the nartica.html file. 
+
+## Open issues
+
+There is a total of about 23 issues that I opened for my peers.
+
+## Attendance
+
+There was a total of 2 missing class days for me. Maybe I didn't signed the book everyday, but I know there were only 2 days 
+I was Absent. 
+
+## Conclusion
+
+Thanks very much for teaching me LINUX!! I love it. since I istarted this class I have used Microsoft Windows in about 5 occassions.
+I am very happy to have taken this class with you!
+
+
