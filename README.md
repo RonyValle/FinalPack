@@ -76,10 +76,13 @@ a few options for the mount command:</br>
 
 ## Week5&6
 
-[Week5&6 Repository]()
+[Week5&6 Repository](https://github.com/RonyValle/Week5-6)
 
 Week 5 and 6 were merge together into one week called Week5&6. Nevertheless for this week I read chapter 5 titled 
 "How The Linux Kernel Boots". 
+
+
+Also has the Documentation for how I created my bootable USB!
 
 
 
