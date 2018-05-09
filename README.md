@@ -35,7 +35,7 @@ commands in this chapter including:
 
 ## Week3
 
-[Week3 Repository]()
+[Week3 Repository](https://github.com/RonyValle/Week3/blob/master/ch3.sh)
 
 In week 3 I read chapter 3 titled "Devices" In this chapter I learned about the /dev/null directory. Evrything that gets sent
 to this directory will be discarted by the kernel. I also learn about the `dd` utility and about it's different uses. I used this utility when I created my bootable USB. Find that documantation here: [BootableUSB](
@@ -54,11 +54,25 @@ In this chapter I also learned about how the `udevd` daemon operates.
 
 [Week4 Repository]()
 
+For week 4 I read chapter 4 titled "Disk And Filesystems". This chapter showed me how to work with disks on Linux systems.
+One of the most important things from this chapter was the section about Partitioning Disk Devices. The material covered in
+that section is something very useful to know. The utility that I found more appealing to me for manipulating disks was `fdisk`.
+`parted` and `gparted` I did not find as fun as `fdisk`. I am very happy I got to learn how to use this Linux utility to format 
+disk and create and delete partion tables. The chapter also went to talk about filesystem types and how to create them. 
+The command I learned for craeting a filesystem was: </br>
+`mkfs -t ext4 /dev/sda` </br>
+*The -t specifies the filetype to be created* </br>
+*The `/dev/sda` should point to the correct directory where you want to create the filesystem*
+I also learned how to mount and unmount filesystems using the `mount` and `unmount` commands. 
+a few options for the mount command:</br>
+* *`-r` mounts the filesystem in read-only mode*
+* *`-n` ensures that `mount` does not try to update the system runtime mount database, /etc/mtab*
+* *`-t` specifies the filesystem type*
 
-
-
+*Take a look at Week4 Repository to see all the commands I learned in this chapter*
 
 ***
+
 
 ## Week5&6
 
