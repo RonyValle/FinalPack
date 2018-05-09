@@ -38,8 +38,7 @@ commands in this chapter including:
 [Week3 Repository](https://github.com/RonyValle/Week3)
 
 In week 3 I read chapter 3 titled "Devices" In this chapter I learned about the /dev/null directory. Evrything that gets sent
-to this directory will be discarted by the kernel. I also learn about the `dd` utility and about it's different uses. I used this utility when I created my bootable USB. Find that documantation here: [BootableUSB](
-https://github.com/RonyValle/Week5-6/blob/master/Bootable_USB.md)
+to this directory will be discarted by the kernel. I also learn about the `dd` utility and about it's different uses. I used this utility when I created my bootable USB. Find that documantation here: [BootableUSB](https://github.com/RonyValle/Week5-6/blob/master/Bootable_USB.md)
 In this chapter I also learned about how the `udevd` daemon operates.
 * The kernel sends udevd a notification event, called a *uevent*, through an internel network link.
 * `udevd` loads all of the attributes in the uevent.
@@ -79,10 +78,24 @@ a few options for the mount command:</br>
 [Week5-6 Repository](https://github.com/RonyValle/Week5-6)
 
 Week 5 and 6 were merged together into one week called Week5-6. Nevertheless for this week I read chapter 5 titled 
-"How The Linux Kernel Boots". 
+"How The Linux Kernel Boots"
+In this chapter I learned the basics of how the Linux kernel boots.
+* The machine BIOS or boot firmware loads and runs a boot loader.
+* The boot loader finds the kernel image on disk, loads it into memory, and starts it.
+* The kernael initializes the device and its drivers.
+* The kernel mounts the root filesystem.
+* The kernel starts a program called *init* with a process ID of 1. At this point the *user space starts*
+* init sets the rest of the system processes in motion
+* At some point, innit starts a process allowing you to log in, usually at the end or near the end of the boot.
 
+One of the most importatnt commands that i took from this chapter was the `dmesg` command. This command can be use to 
+trouble shoot the boot process. The `dmesg` command uses the kernel ring buffer which holds boot messages.
 
-Also has the Documentation for how I created my bootable USB!
+I also learn a great deal about GRUB! I didn't know GRUB had it's own interactive shell which can be access at boot by holding 
+down *SHIFT* then pressing **e**
+
+One of the assignments for this week was to document how I created my own bootable USB! That documentation can be found here:
+[BootableUSB](https://github.com/RonyValle/Week5-6/blob/master/Bootable_USB.md)
 
 
 
