@@ -178,7 +178,7 @@ This chapters were about moving files across the network and User environment.
 
 For this week I read Chapter 14 and 15 and wrote a 500 word essay for each using markdown format.
 One of the funnest things I did for this week is that there was an assignment for to change my window manager which I did.
-Find that documentation here: [Window Manager Chage](https://github.com/RonyValle/week14/blob/master/ChangingWindowManager.md)
+Find that documentation here: [Window Manager Change](https://github.com/RonyValle/week14/blob/master/ChangingWindowManager.md)
 
 ***
 
